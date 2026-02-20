@@ -1,0 +1,10 @@
+artifact_location: file:///Users/aryanrajput/Desktop/Youtube%20MLOps%20Series/YT-MLOPS-Experiment-with-MLFLOW/mlruns/964790328797075231/models/m-48bf98b6994844d69d45fd07e080b633/artifacts
+creation_timestamp: 1771610236784
+experiment_id: '964790328797075231'
+last_updated_timestamp: 1771610239908
+model_id: m-48bf98b6994844d69d45fd07e080b633
+model_type: null
+name: Random-Forest-Model
+source_run_id: 4895615e5f0f4cad907700b2a3ff9240
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aryanrajput/Desktop/Youtube%20MLOps%20Series/YT-MLOPS-Experiment-with-MLFLOW/mlruns/964790328797075231/4895615e5f0f4cad907700b2a3ff9240/artifacts
+end_time: 1771610239911
+entry_point_name: ''
+experiment_id: '964790328797075231'
+lifecycle_stage: active
+run_id: 4895615e5f0f4cad907700b2a3ff9240
+run_name: able-zebra-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771610235968
+status: 3
+tags: []
+user_id: aryanrajput

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aryanrajput/Desktop/Youtube MLOps Series/YT-MLOPS-Experiment-with-MLFLOW/mlruns/263352204823271232/cf982640ffe14df6baca6ad5caeb1762/artifacts
+end_time: 1771605758290
+entry_point_name: ''
+experiment_id: '263352204823271232'
+lifecycle_stage: active
+run_id: cf982640ffe14df6baca6ad5caeb1762
+run_name: skittish-crab-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771605757784
+status: 3
+tags: []
+user_id: aryanrajput

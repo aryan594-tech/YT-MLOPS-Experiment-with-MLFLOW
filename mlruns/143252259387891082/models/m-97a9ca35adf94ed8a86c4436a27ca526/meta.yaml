@@ -1,0 +1,10 @@
+artifact_location: /Users/aryanrajput/Desktop/Youtube MLOps Series/YT-MLOPS-Experiment-with-MLFLOW/mlruns/143252259387891082/models/m-97a9ca35adf94ed8a86c4436a27ca526/artifacts
+creation_timestamp: 1771616977864
+experiment_id: '143252259387891082'
+last_updated_timestamp: 1771616980276
+model_id: m-97a9ca35adf94ed8a86c4436a27ca526
+model_type: null
+name: model
+source_run_id: 88c3e3449ba64a3db8913fe7f5431914
+status: 2
+status_message: null

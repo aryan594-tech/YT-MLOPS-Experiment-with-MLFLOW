@@ -1,0 +1,29 @@
+artifact_path: file:///Users/aryanrajput/Desktop/Youtube%20MLOps%20Series/YT-MLOPS-Experiment-with-MLFLOW/mlruns/103634744766780564/models/m-230c855e51a04625b742a306e21523e2/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.9.0
+model_id: m-230c855e51a04625b742a306e21523e2
+model_size_bytes: 11502
+model_uuid: m-230c855e51a04625b742a306e21523e2
+prompts: null
+run_id: 585c153135ca411381db1cf095cf4bb3
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 13]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-02-20 19:49:43.775085'

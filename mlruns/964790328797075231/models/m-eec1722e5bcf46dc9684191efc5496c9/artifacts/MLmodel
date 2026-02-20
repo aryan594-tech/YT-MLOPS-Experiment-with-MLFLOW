@@ -1,0 +1,23 @@
+artifact_path: file:///Users/aryanrajput/Desktop/Youtube%20MLOps%20Series/YT-MLOPS-Experiment-with-MLFLOW/mlruns/964790328797075231/models/m-eec1722e5bcf46dc9684191efc5496c9/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-eec1722e5bcf46dc9684191efc5496c9
+model_size_bytes: 11502
+model_uuid: m-eec1722e5bcf46dc9684191efc5496c9
+prompts: null
+run_id: e626e63532354f6794a1617dd8c18be0
+utc_time_created: '2026-02-20 17:54:59.931631'

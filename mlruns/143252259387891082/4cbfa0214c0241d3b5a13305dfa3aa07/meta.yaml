@@ -1,0 +1,14 @@
+artifact_uri: /Users/aryanrajput/Desktop/Youtube MLOps Series/YT-MLOPS-Experiment-with-MLFLOW/mlruns/143252259387891082/4cbfa0214c0241d3b5a13305dfa3aa07/artifacts
+end_time: 1771616989441
+entry_point_name: ''
+experiment_id: '143252259387891082'
+lifecycle_stage: active
+run_id: 4cbfa0214c0241d3b5a13305dfa3aa07
+run_name: thundering-worm-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771616987526
+status: 4
+tags: []
+user_id: aryanrajput

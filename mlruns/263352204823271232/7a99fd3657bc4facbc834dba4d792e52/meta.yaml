@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aryanrajput/Desktop/Youtube MLOps Series/YT-MLOPS-Experiment-with-MLFLOW/mlruns/263352204823271232/7a99fd3657bc4facbc834dba4d792e52/artifacts
+end_time: 1771605836103
+entry_point_name: ''
+experiment_id: '263352204823271232'
+lifecycle_stage: active
+run_id: 7a99fd3657bc4facbc834dba4d792e52
+run_name: capable-fawn-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771605835201
+status: 3
+tags: []
+user_id: aryanrajput

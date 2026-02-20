@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/aryanrajput/Desktop/Youtube%20MLOps%20Series/YT-MLOPS-Experiment-with-MLFLOW/mlruns/103634744766780564/585c153135ca411381db1cf095cf4bb3/artifacts
+end_time: 1771616987432
+entry_point_name: ''
+experiment_id: '103634744766780564'
+lifecycle_stage: active
+run_id: 585c153135ca411381db1cf095cf4bb3
+run_name: serious-shrew-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771616983740
+status: 3
+tags: []
+user_id: aryanrajput
